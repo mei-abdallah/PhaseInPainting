@@ -1,6 +1,6 @@
 # PhaseInPainting — InSAR Interferometric Phase Reconstruction
 
-> Official implementation of **"A novel two-stage adversarial joint learning model for reconstructing InSAR phase in decorrelated areas"**  
+> General implementation of **"A novel two-stage adversarial joint learning model for reconstructing InSAR phase in decorrelated areas"**  
 > Abdallah, M., Wu, S., & Ding, X. (2026). *Science of Remote Sensing*, 13, 100373.  
 > [https://doi.org/10.1016/j.srs.2026.100373](https://doi.org/10.1016/j.srs.2026.100373)
 
